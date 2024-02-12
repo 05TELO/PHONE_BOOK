@@ -8,7 +8,7 @@
 
 ## Installation
 
-> poetry install
+> poetry install --without dev
 
 
 
